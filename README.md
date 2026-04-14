@@ -1,6 +1,6 @@
 # 📁 Folder Icon Changer
 
-A simple yet powerful tool to customize your folder icons easily.
+A simple yet powerful tool to customize your folder icons easily you can change 100000+ folder icons at once.
 
 ---
 
